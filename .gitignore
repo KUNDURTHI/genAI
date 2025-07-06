@@ -1,1 +1,4 @@
-./venv/*
+venv/*
+logs/*
+venv/lib/python3.12/site-packages/platformdirs-4.3.8.dist-info/WHEEL
+.DS_Store
